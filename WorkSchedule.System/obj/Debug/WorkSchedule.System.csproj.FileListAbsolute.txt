@@ -1,0 +1,9 @@
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\bin\Debug\WorkSchedule.System.dll
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\bin\Debug\WorkSchedule.System.pdb
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\bin\Debug\EntityFramework.dll
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\bin\Debug\WorkSchedule.Data.dll
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\bin\Debug\WorkSchedule.Data.pdb
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\bin\Debug\EntityFramework.xml
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\obj\Debug\WorkSchedule.System.csprojResolveAssemblyReference.cache
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\obj\Debug\WorkSchedule.System.dll
+C:\Users\agharial1\Desktop\WorkScheduleSolution\WorkSchedule.System\obj\Debug\WorkSchedule.System.pdb
